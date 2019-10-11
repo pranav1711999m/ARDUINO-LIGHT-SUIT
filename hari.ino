@@ -22,6 +22,7 @@ rlc - right hand&left leg
  al - all left
  ar - all right
  bl - both leg
+ DELAY TIME IS GIVEN ACCORDING TO THE MUSIC
 */
   void allon(){
   
